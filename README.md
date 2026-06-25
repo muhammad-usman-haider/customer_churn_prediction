@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-Predicting customer churn is critical for subscription and service-based businesses. This repository demonstrates end-to-end churn prediction workflows implemented with multiple ML frameworks (Scikit-Learn, TensorFlow, and PyTorch). The notebooks include data exploration, preprocessing, model training, evaluation, and tips for deployment.
+**Predicting customer churn is critical for subscription and service-based businesses. This repository demonstrates end-to-end churn prediction workflows implemented with multiple ML frameworks (Scikit-Learn, TensorFlow, and PyTorch). The notebooks include data exploration, preprocessing, model training, evaluation, and tips for deployment.**
 
 ---
 
