@@ -151,7 +151,7 @@ Suggestions to take this project further:
 
 ---
 
-## Contributing
+## Contributing..
 
 Contributions are welcome. Suggested ways to contribute:
 - Improve notebooks (cleaner organization, modular functions).
