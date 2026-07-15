@@ -70,7 +70,7 @@ Open the notebooks to follow the detailed steps, visualizations, and evaluation 
 
 ---
 
-## Getting Started
+## Getting Started...
 
 ### Prerequisites
 
